@@ -40,7 +40,7 @@ src/
     resources/
       - business logic and persistence for each RESTful resource
     routes/
-      - route-handling middleware, organized as a router tree
+      - route-handling middleware, organized as an endpoint URI tree
     app.ts
       - exports the express() instance
     errors.ts
