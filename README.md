@@ -22,6 +22,7 @@ The result is internal processing can remain simple, and output transformations 
 ## Usage
 
 ```shell
+npm i
 npm run watch
 ```
 
